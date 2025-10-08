@@ -1,2 +1,4 @@
 #!/bin/bash
-find . -mindepth 1 -type d -exec chmod 711 {} \;
+for dir in */; do
+chmod 711 "$dir"
+done
