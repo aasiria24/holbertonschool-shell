@@ -1,10 +1,8 @@
-# Holberton School Shell - I/O Redirections and Filters
+# Holberton School Shell Projects
 
-This directory contains shell scripts for I/O redirections and filters exercises.
+This repository contains shell scripting projects for Holberton School. Each directory corresponds to a specific topic or set of exercises.
 
-## Scripts
+## Directories
 
-### 0-hello_world
-
-- Prints "Hello, World" followed by a new line to the standard output.
-
+### io_redirections_and_filters
+- **0-hello_world**: Prints "Hello, World" followed by a new line to standard output. 
