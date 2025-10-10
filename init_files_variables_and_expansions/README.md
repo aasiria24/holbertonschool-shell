@@ -7,3 +7,5 @@ This directory contains scripts related to shell initialization, variables, and 
 - **0-alias**: Creates an alias named `ls` with value `rm -f *`
 - *More scripts will be added as the project progresses*
 
+
+- **1-hello_you**: Prints "hello" followed by the current Linux username
